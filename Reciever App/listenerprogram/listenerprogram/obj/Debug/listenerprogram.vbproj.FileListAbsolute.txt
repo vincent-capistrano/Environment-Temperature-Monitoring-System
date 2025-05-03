@@ -1,0 +1,33 @@
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.AssemblyReference.cache
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Form1.resources
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Resources.resources
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.GenerateResource.cache
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.CoreCompileInputs.cache
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\bin\Debug\listenerprogram.exe.config
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\bin\Debug\listenerprogram.exe
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\bin\Debug\listenerprogram.pdb
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\bin\Debug\listenerprogram.xml
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.exe
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.xml
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.pdb
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Form2.resources
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Form3.resources
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\bin\Debug\System.Drawing.Common.dll
+C:\Users\vcapistrano\source\repos\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.CopyComplete
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\bin\Debug\listenerprogram.exe.config
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\bin\Debug\listenerprogram.exe
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\bin\Debug\listenerprogram.pdb
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\bin\Debug\listenerprogram.xml
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\bin\Debug\System.Drawing.Common.dll
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.AssemblyReference.cache
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Form1.resources
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Form2.resources
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Form3.resources
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.Resources.resources
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.GenerateResource.cache
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.vbproj.CoreCompileInputs.cache
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listener.059EF802.Up2Date
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.exe
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.xml
+C:\Users\vcapistrano.REPI\Desktop\Desktop\PROGRAMS\1. FINISHED PROGRAMS\Windows Application\PERMS HOST APP\listenerprogram\listenerprogram\obj\Debug\listenerprogram.pdb
