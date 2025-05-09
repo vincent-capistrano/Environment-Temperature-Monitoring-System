@@ -8,6 +8,7 @@
 ![image](https://github.com/user-attachments/assets/49689a85-a2df-4f3e-98d2-3400bcd22a33)
 
 - Open the reciever app before opening M5Core2 Device and make sure C++ program is uploaded.
+- Modify the connection string insde the App.config
 ## Authors
 
 - [@vincent-capistrano](https://www.github.com/vincent-capistrano)
